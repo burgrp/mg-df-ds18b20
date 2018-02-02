@@ -1,0 +1,19 @@
+author: DEVICE-FARM
+description: DEVICE-FARM peripheral library for DS18B20
+version: 1.0
+arch: esp8266
+
+tags:
+  - c
+
+sources:
+  - src
+
+filesystem:
+  - fs
+
+libs:
+  - origin: ../df-core
+  - origin: https://github.com/mongoose-os-libs/arduino-onewire
+
+skeleton_version: 2017-05-18
