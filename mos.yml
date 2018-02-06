@@ -13,7 +13,7 @@ filesystem:
   - fs
 
 libs:
-  - origin: ../df-core
+  - origin: ../mg-df-core
   - origin: https://github.com/mongoose-os-libs/arduino-onewire
 
 skeleton_version: 2017-05-18

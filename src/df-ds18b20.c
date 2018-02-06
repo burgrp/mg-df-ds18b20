@@ -1,6 +1,6 @@
-#include "fw/src/mgos.h"
+#include "mgos.h"
 #include "mgos_config.h"
 
-bool mgos_df_ds18b20_init(void) {
+bool mgos_mg_df_ds18b20_init(void) {
 	return true;
 }
