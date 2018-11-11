@@ -16,4 +16,4 @@ libs:
   - origin: ../mg-df-core
   - origin: https://github.com/mongoose-os-libs/arduino-onewire
 
-skeleton_version: 2017-05-18
+manifest_version: 2017-09-29
